@@ -1,0 +1,25 @@
+div{
+    background-color: black;
+    text-align: justify;
+    color: white;
+    width: 400px;
+    margin: 28px auto;
+    padding: 10px;
+    font-family: tahoma;
+    border: 8px solid darkgoldenrod;
+}
+ol{
+    background-color: rgb(255, 0, 149);
+    text-align: justify;
+    color: white;
+    margin-top:95px ;
+    margin-right: 20px;
+    margin-bottom: 30px;
+    margin-left: 15px;
+}
+h2{
+    border-top:3px dashed coral;
+    border-bottom:5px solid blue ;
+    border-left:12px dotted orange  ;
+    border-right:15px double yellowgreen;
+}
